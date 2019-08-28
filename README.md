@@ -12,7 +12,7 @@ Data Structures Library
 
 1. Implement a StringBuilder class 
 2. Implement substring() method (not indexOf() or contains())
-3. Rabin Karp/KMP/Boyers Moore 
+3. Rabin Karp/KMP/Boyers Moore pattern finding
 
 ## Stacks/Queue:
 
