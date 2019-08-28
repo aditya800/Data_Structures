@@ -3,23 +3,23 @@ Data Structures Library
 
 ## Arrays:
 
-Remove an element k from an array of size N.\n
-Insert k into an ordered array of size N. Check for capacity in array.
-Implement a basic ArrayList class 
-Implement iterative & recursive binary search 
+1. Remove an element k from an array of size N. 
+2. Insert k into an ordered array of size N. Check for capacity in array.
+3. Implement a basic ArrayList class 
+4. Implement iterative & recursive binary search 
 
 ## Strings:
 
-Implement a StringBuilder class 
-Implement substring() method (not indexOf() or contains())
-Rabin Karp/KMP/Boyers Moore 
+1. Implement a StringBuilder class 
+2. Implement substring() method (not indexOf() or contains())
+3. Rabin Karp/KMP/Boyers Moore 
 
 ## Stacks/Queue
 
-Implement Stack using array
-Implement Stack using LinkedList
-Implement Queue using array 
-Implement Deque (Queue with insertions & deletions at both ends)
-Implement circular LinkedList 
-Implement circular Deque 
+1. Implement Stack using array
+2. Implement Stack using LinkedList
+3. Implement Queue using array 
+4. Implement Deque (Queue with insertions & deletions at both ends)
+5. Implement circular LinkedList 
+6. Implement circular Deque 
 
