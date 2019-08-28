@@ -1,7 +1,7 @@
 # Data_Structures
 Data Structures Library 
 
-## Arrays:
+### Arrays:
 
 Remove an element k from an array of size N.
 Insert k into an ordered array of size N. Check for capacity in array.
