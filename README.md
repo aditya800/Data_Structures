@@ -10,7 +10,7 @@ Data Structures Library
 
 ## Strings:
 
-1. Implement a StringBuilder class 
+1. Implement a basic StringBuilder class 
 2. Implement substring() method (not indexOf() or contains())
 3. Rabin Karp/KMP/Boyers Moore pattern finding
 
