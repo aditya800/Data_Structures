@@ -14,7 +14,7 @@ Data Structures Library
 2. Implement substring() method (not indexOf() or contains())
 3. Rabin Karp/KMP/Boyers Moore 
 
-## Stacks/Queue
+## Stacks/Queue:
 
 1. Implement Stack using array
 2. Implement Stack using LinkedList
