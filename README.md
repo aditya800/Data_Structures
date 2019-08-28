@@ -3,7 +3,7 @@ Data Structures Library
 
 ## Arrays:
 
-1. Remove an element k from an array of size N. ``array_deletion.java``
+1. Remove an element k from an array of size N.
 2. Insert k into an ordered array of size N. Check for capacity in array.
 3. Implement a basic ArrayList class 
 4. Implement iterative & recursive binary search 
