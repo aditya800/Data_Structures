@@ -1,4 +1,4 @@
-# Data_Structures
+# Data Structures
 Data Structures Library 
 
 ## Arrays:
