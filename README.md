@@ -1,9 +1,9 @@
 # Data_Structures
 Data Structures Library 
 
-### Arrays:
+## Arrays:
 
-Remove an element k from an array of size N.
+Remove an element k from an array of size N.\n
 Insert k into an ordered array of size N. Check for capacity in array.
 Implement a basic ArrayList class 
 Implement iterative & recursive binary search 
