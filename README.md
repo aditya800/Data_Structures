@@ -23,7 +23,7 @@ Data Structures Library
 5. Implement circular LinkedList 
 6. Implement circular Deque 
 
-## Recursion/Dynamic Programming:
+## Recursion/DP/Backtracking 
 
 1. Implement iterative fibonacci 
 2. Implement Euclid's algorithm 
