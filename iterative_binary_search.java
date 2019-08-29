@@ -1,4 +1,6 @@
 // "static void main" must be defined in a public class.
+// This program contains a bug, mid = (low + high) / 2 can cause overflow issues if the size of the array closely exceeds the max macro 
+// of int. The correct way of determining mid should mid = 1 + (high - low) / 2 
 public class Main {
     
     public static void main(String[] args) {
