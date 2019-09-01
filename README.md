@@ -28,3 +28,4 @@ Data Structures Library
 1. Implement iterative fibonacci 
 2. Implement Euclid's algorithm 
 3. Compute all permutations of given int/String list
+4. Tower of Hanoi 
