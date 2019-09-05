@@ -29,3 +29,4 @@ Data Structures Library
 2. Implement Euclid's algorithm 
 3. Compute all permutations of given int/String list
 4. Tower of Hanoi 
+5. Merge Sort/Quick Sort
