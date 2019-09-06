@@ -34,5 +34,5 @@ Data Structures Library
 
 ## Graphs
 
-1. DFS for cycle
-2. BFS for shortest path 
+1. DFS for cycle / Maze search / Treasure finding 
+2. BFS for shortest path / Counting number of islands 
