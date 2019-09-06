@@ -14,7 +14,7 @@ Data Structures Library
 2. Implement substring() method (not indexOf() or contains())
 3. Rabin Karp/KMP/Boyers Moore pattern finding
 
-## Stacks/Queue:
+## Stacks/Queue/LinkedList:
 
 1. Implement Stack using array
 2. Implement Stack using LinkedList
@@ -22,6 +22,7 @@ Data Structures Library
 4. Implement Deque (Queue with insertions & deletions at both ends)
 5. Implement circular LinkedList 
 6. Implement circular Deque 
+7. Reverse a singly linked list
 
 ## Recursion/DP/Backtracking 
 
