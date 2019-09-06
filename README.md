@@ -31,3 +31,8 @@ Data Structures Library
 3. Compute all permutations of given int/String list
 4. Tower of Hanoi 
 5. Merge Sort/Quick Sort
+
+## Graphs
+
+1. DFS for cycle
+2. BFS for shortest path 
