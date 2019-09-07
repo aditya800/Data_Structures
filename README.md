@@ -34,5 +34,5 @@ Data Structures Library
 
 ## Graphs
 
-1. DFS for cycle / Maze search / Counting number of islands 
+1. DFS for cycle / Maze search / Counting number of islands / Hamiltonian problem 
 2. BFS for shortest path / Treasure finding  
