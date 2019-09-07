@@ -11,7 +11,7 @@ public class Main {
     
     static int recursive_binary_search(int[] arr, int key, int low, int high) {
      
-        int mid = (high + low) / 2;
+        int mid = low + (high - low) / 2;
         
         if(arr[mid] == key)
             return mid;
