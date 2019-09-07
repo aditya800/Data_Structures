@@ -36,3 +36,4 @@ Data Structures Library
 
 1. DFS for cycle / Maze search / Counting number of islands / Hamiltonian problem 
 2. BFS for shortest path / Treasure finding  
+3. Topo Sort / Course Scheduling 
