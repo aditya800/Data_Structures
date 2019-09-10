@@ -7,6 +7,7 @@ Data Structures Library
 2. Insert k into an ordered array of size N. Check for capacity in array.
 3. Implement a basic ArrayList class 
 4. Implement iterative & recursive binary search 
+5. Counting Sort
 
 ## Strings:
 
