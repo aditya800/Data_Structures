@@ -24,6 +24,7 @@ Data Structures Library
 6. Implement circular Deque 
 7. Implement basic LinkedList API - insert, search, and delete,find-mid, in both singly and doubly linked list.
 8. Reverse a singly linked list
+9. Implement the Iterator interface
 
 ## Recursion/DP/Backtracking 
 
