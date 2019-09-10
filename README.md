@@ -22,7 +22,7 @@ Data Structures Library
 4. Implement Deque (Queue with insertions & deletions at both ends)
 5. Implement circular LinkedList 
 6. Implement circular Deque 
-7. Implement basic LinkedList API - insert, search, and delete, in both singly and doubly linked list.
+7. Implement basic LinkedList API - insert, search, and delete,find-mid, in both singly and doubly linked list.
 8. Reverse a singly linked list
 
 ## Recursion/DP/Backtracking 
