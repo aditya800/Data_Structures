@@ -29,7 +29,7 @@ Data Structures Library
 10. Merge Sort for Doubly LinkedList
 11. Floyd's cycle detection
 
-## Recursion/DP/Backtracking 
+## Recursion/DP/Backtracking/Greedy
 
 1. Implement iterative fibonacci 
 2. Implement Euclid's algorithm 
