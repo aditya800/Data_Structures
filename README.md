@@ -26,6 +26,7 @@ Data Structures Library
 8. Reverse a singly linked list
 9. Implement the Iterator interface
 10. Merge Sort for Doubly LinkedList
+11. Floyd's cycle detection
 
 ## Recursion/DP/Backtracking 
 
