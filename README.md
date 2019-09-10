@@ -38,6 +38,7 @@ Data Structures Library
 5. Merge Sort/Quick Sort
 
 ## Graphs/Trees
+(Trees: https://www.cs.cmu.edu/~adamchik/15-121/lectures/Trees/trees.html)
 
 1. DFS for cycle / Maze search / Counting number of islands / Hamiltonian problem 
 2. BFS for shortest path / Treasure finding  
