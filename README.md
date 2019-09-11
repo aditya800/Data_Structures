@@ -37,6 +37,7 @@ Data Structures Library
 3. Compute all permutations of given int/String list
 4. Tower of Hanoi 
 5. Merge Sort/Quick Sort
+6. 0/1 Knapsack
 
 ## Graphs/Trees/BST/Heap
 (Trees: https://www.cs.cmu.edu/~adamchik/15-121/lectures/Trees/trees.html)
