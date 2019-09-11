@@ -37,7 +37,7 @@ Data Structures Library
 4. Tower of Hanoi 
 5. Merge Sort/Quick Sort
 
-## Graphs/Trees/BST
+## Graphs/Trees/BST/Heap
 (Trees: https://www.cs.cmu.edu/~adamchik/15-121/lectures/Trees/trees.html)
 
 1. DFS for cycle / Maze search / Counting number of islands / Hamiltonian problem 
@@ -45,4 +45,5 @@ Data Structures Library
 3. Topo Sort / Course Scheduling 
 4. Implement a TreeSet / TreeMap
 5. Iterative Postorder
+6. Implement a Priority Queue 
 
