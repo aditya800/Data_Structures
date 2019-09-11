@@ -28,6 +28,7 @@ Data Structures Library
 9. Implement the Iterator interface
 10. Merge Sort for Doubly LinkedList
 11. Floyd's cycle detection
+12. Infix/Postfix/Prefix
 
 ## Recursion/DP/Backtracking/Greedy
 
