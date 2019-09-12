@@ -12,7 +12,7 @@ Data Structures Library
 ## Strings:
 
 1. Implement a basic StringBuilder class 
-2. Implement substring() method (not indexOf() or contains())
+2. Implement key String methods: replace(), replaceAll(), split(), substring()
 3. Rabin Karp/KMP/Boyers Moore pattern finding
 
 ## Stacks/Queue/LinkedList:
