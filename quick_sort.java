@@ -22,6 +22,9 @@ public class Main {
         
         Random r = new Random(0);
         int pivot = r.nextInt(high - low + 1) + low;
+        int temp1 = arr[pivot];
+        arr[pivot] = arr[high];
+        arr[high] = temp1;
         int pi = low;
         
         for(int i = low; i < high; i++) {
