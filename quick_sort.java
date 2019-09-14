@@ -20,7 +20,8 @@ public class Main {
     
     static int partition(int[] arr, int low, int high) {
         
-        int pivot = arr[high];
+        Random r = new Random(0);
+        int pivot = r.nextInt(high - low + 1) + low;
         int pi = low;
         
         for(int i = low; i < high; i++) {
