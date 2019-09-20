@@ -23,3 +23,12 @@
         }
         
 	}
+
+TreeSet<Integer> tree = new TreeSet();
+for(eventtype: eventypes) {
+            for(event: eventtype) {
+                if(numoccureneces >= average)
+                    map.put(bizid, map.getordefault(bizid), 0) +1)
+            }
+        }
+
