@@ -117,6 +117,20 @@ class Node {
                 
      }
         
+    public Deque<Integer> topological_order(Node root) {
+        Deque<Integer> deque = new LinkedList();
+        dfs(root, deque, map);
+        return deque;
+    }
+        
+    public void dfs(Node root, Deque<Integer> deque, HashMap<Node, List<Node[]>> map) {
+        Node[] edges = map.get(root);
+        for(Node edge : edges) {
+             dfs(edge, deque, map);
+        }
+        deque.addFirst(root);
+    }
+        
     // assuming there is a parent reference
     public Node successor(Node random) {
             
