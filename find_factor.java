@@ -13,7 +13,7 @@
         Collections.reverse(l2);
     
         if(p > (l1.size() + l2.size())) {
-            return 0;
+            return new Long(0);
         }
         
         if(p <= l1.size()) {
